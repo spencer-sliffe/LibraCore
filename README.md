@@ -1,2 +1,1 @@
-# LibraCore
-EECS 447 repo
+# EECS-447-Project
