@@ -1,4 +1,4 @@
-# KobraSuite Django Backend
+# LibraCore Django Backend
 
 ## Install and Run
 
