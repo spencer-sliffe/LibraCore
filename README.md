@@ -46,16 +46,24 @@
 5. **Migrate**:
    - **macOS/Linux**: 
      ```bash
-     python manage.py makemigrations
      python manage.py migrate
      ```
    - **Windows**:
      ```bash
-     python manage.py makemigrations
      python manage.py migrate
      ```
 
-6. **Run Django Project**:
+6. **Create super User**:
+   - **macOS/Linux**: 
+     ```bash
+     python manage.py createsuperuser
+     ```
+   - **Windows**:
+     ```bash
+     python manage.py createsuperuser
+     ```
+	 
+7. **Run Django Project**:
    - **macOS/Linux**: 
      ```bash
      python manage.py runserver
@@ -64,3 +72,15 @@
      ```bash
      python manage.py runserver
      ```
+
+8. **Run Django Project**:
+   - **macOS/Linux**: 
+     ```bash
+     localhost:8000/admin
+     ```
+   - **Windows**:
+     ```bash
+     localhost:8000/admin
+     ```
+
+9. **Login with your super user account and should be up and running:)**
