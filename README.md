@@ -38,7 +38,7 @@
 
 4. **Setup .env** (Skip for now):
    - **macOS/Linux**: 
-     - Create a `.env` file in the base `kobrasuitecore` directory (The one w/ manage.py and requirements.txt).
+     - Create a `.env` file in the base `libracore` directory (The one w/ manage.py and requirements.txt).
      - Use the following template and replace placeholders as needed:
    - **Windows**: 
      - Same steps as macOS/Linux.
