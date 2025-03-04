@@ -26,7 +26,7 @@
      venv\Scripts\activate
      ```
 
-3. **Install Dependencies**(Skip for now):
+3. **Install Dependencies**:
    - **macOS/Linux**: 
      ```bash
      pip install -r requirements.txt
