@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'accounts',
     'catalog',
     'loans',
-    'reservations',
     'notifications',
     'reports',
     'core',
